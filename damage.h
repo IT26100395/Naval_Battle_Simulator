@@ -1,0 +1,1 @@
+void applyDamage(float *health, int *destroyed, float damage);
