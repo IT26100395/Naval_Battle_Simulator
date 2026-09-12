@@ -1,0 +1,873 @@
+Attack Order : 1
+Enemy Ship ID : 1
+Shot Number : 1
+Firing Interval : 3.00
+Remaining Health : 92.00
+----------------------
+Attack Order : 1
+Enemy Ship ID : 1
+Shot Number : 2
+Firing Interval : 3.00
+Remaining Health : 84.64
+----------------------
+Attack Order : 1
+Enemy Ship ID : 1
+Shot Number : 3
+Firing Interval : 3.00
+Remaining Health : 77.87
+----------------------
+Attack Order : 2
+Enemy Ship ID : 2
+Shot Number : 1
+Firing Interval : 5.00
+Remaining Health : 73.20
+----------------------
+Attack Order : 2
+Enemy Ship ID : 2
+Shot Number : 2
+Firing Interval : 5.00
+Remaining Health : 68.80
+----------------------
+Attack Order : 2
+Enemy Ship ID : 2
+Shot Number : 3
+Firing Interval : 5.00
+Remaining Health : 64.68
+----------------------
+Attack Order : 3
+Enemy Ship ID : 3
+Shot Number : 1
+Firing Interval : 4.00
+Remaining Health : 60.15
+----------------------
+Attack Order : 3
+Enemy Ship ID : 3
+Shot Number : 2
+Firing Interval : 4.00
+Remaining Health : 55.94
+----------------------
+Attack Order : 3
+Enemy Ship ID : 3
+Shot Number : 3
+Firing Interval : 4.00
+Remaining Health : 52.02
+----------------------
+Attack Order : 4
+Enemy Ship ID : 4
+Shot Number : 1
+Firing Interval : 6.00
+Remaining Health : 49.42
+----------------------
+Attack Order : 4
+Enemy Ship ID : 4
+Shot Number : 2
+Firing Interval : 6.00
+Remaining Health : 46.95
+----------------------
+Attack Order : 4
+Enemy Ship ID : 4
+Shot Number : 3
+Firing Interval : 6.00
+Remaining Health : 44.60
+----------------------
+Attack Order : 5
+Enemy Ship ID : 5
+Shot Number : 1
+Firing Interval : 2.00
+Remaining Health : 42.82
+----------------------
+Attack Order : 5
+Enemy Ship ID : 5
+Shot Number : 2
+Firing Interval : 2.00
+Remaining Health : 41.11
+----------------------
+Attack Order : 5
+Enemy Ship ID : 5
+Shot Number : 3
+Firing Interval : 2.00
+Remaining Health : 39.46
+----------------------
+Attack Order : 1
+Enemy Ship ID : 1
+Shot Number : 1
+Firing Interval : 3.00
+Remaining Health : 92.00
+----------------------
+Attack Order : 1
+Enemy Ship ID : 1
+Shot Number : 2
+Firing Interval : 3.00
+Remaining Health : 84.64
+----------------------
+Attack Order : 1
+Enemy Ship ID : 1
+Shot Number : 3
+Firing Interval : 3.00
+Remaining Health : 77.87
+----------------------
+Attack Order : 2
+Enemy Ship ID : 2
+Shot Number : 1
+Firing Interval : 5.00
+Remaining Health : 73.20
+----------------------
+Attack Order : 2
+Enemy Ship ID : 2
+Shot Number : 2
+Firing Interval : 5.00
+Remaining Health : 68.80
+----------------------
+Attack Order : 2
+Enemy Ship ID : 2
+Shot Number : 3
+Firing Interval : 5.00
+Remaining Health : 64.68
+----------------------
+Attack Order : 3
+Enemy Ship ID : 3
+Shot Number : 1
+Firing Interval : 4.00
+Remaining Health : 60.15
+----------------------
+Attack Order : 3
+Enemy Ship ID : 3
+Shot Number : 2
+Firing Interval : 4.00
+Remaining Health : 55.94
+----------------------
+Attack Order : 3
+Enemy Ship ID : 3
+Shot Number : 3
+Firing Interval : 4.00
+Remaining Health : 52.02
+----------------------
+Attack Order : 4
+Enemy Ship ID : 4
+Shot Number : 1
+Firing Interval : 6.00
+Remaining Health : 49.42
+----------------------
+Attack Order : 4
+Enemy Ship ID : 4
+Shot Number : 2
+Firing Interval : 6.00
+Remaining Health : 46.95
+----------------------
+Attack Order : 4
+Enemy Ship ID : 4
+Shot Number : 3
+Firing Interval : 6.00
+Remaining Health : 44.60
+----------------------
+Attack Order : 5
+Enemy Ship ID : 5
+Shot Number : 1
+Firing Interval : 2.00
+Remaining Health : 42.82
+----------------------
+Attack Order : 5
+Enemy Ship ID : 5
+Shot Number : 2
+Firing Interval : 2.00
+Remaining Health : 41.11
+----------------------
+Attack Order : 5
+Enemy Ship ID : 5
+Shot Number : 3
+Firing Interval : 2.00
+Remaining Health : 39.46
+----------------------
+Attack Order : 1
+Enemy Ship ID : 1
+Shot Number : 1
+Firing Interval : 3.00
+Remaining Health : 92.00
+----------------------
+Attack Order : 1
+Enemy Ship ID : 1
+Shot Number : 2
+Firing Interval : 3.00
+Remaining Health : 84.64
+----------------------
+Attack Order : 1
+Enemy Ship ID : 1
+Shot Number : 3
+Firing Interval : 3.00
+Remaining Health : 77.87
+----------------------
+Attack Order : 2
+Enemy Ship ID : 2
+Shot Number : 1
+Firing Interval : 5.00
+Remaining Health : 73.20
+----------------------
+Attack Order : 2
+Enemy Ship ID : 2
+Shot Number : 2
+Firing Interval : 5.00
+Remaining Health : 68.80
+----------------------
+Attack Order : 2
+Enemy Ship ID : 2
+Shot Number : 3
+Firing Interval : 5.00
+Remaining Health : 64.68
+----------------------
+Attack Order : 3
+Enemy Ship ID : 3
+Shot Number : 1
+Firing Interval : 4.00
+Remaining Health : 60.15
+----------------------
+Attack Order : 3
+Enemy Ship ID : 3
+Shot Number : 2
+Firing Interval : 4.00
+Remaining Health : 55.94
+----------------------
+Attack Order : 3
+Enemy Ship ID : 3
+Shot Number : 3
+Firing Interval : 4.00
+Remaining Health : 52.02
+----------------------
+Attack Order : 4
+Enemy Ship ID : 4
+Shot Number : 1
+Firing Interval : 6.00
+Remaining Health : 49.42
+----------------------
+Attack Order : 4
+Enemy Ship ID : 4
+Shot Number : 2
+Firing Interval : 6.00
+Remaining Health : 46.95
+----------------------
+Attack Order : 4
+Enemy Ship ID : 4
+Shot Number : 3
+Firing Interval : 6.00
+Remaining Health : 44.60
+----------------------
+Attack Order : 5
+Enemy Ship ID : 5
+Shot Number : 1
+Firing Interval : 2.00
+Remaining Health : 42.82
+----------------------
+Attack Order : 5
+Enemy Ship ID : 5
+Shot Number : 2
+Firing Interval : 2.00
+Remaining Health : 41.11
+----------------------
+Attack Order : 5
+Enemy Ship ID : 5
+Shot Number : 3
+Firing Interval : 2.00
+Remaining Health : 39.46
+----------------------
+Attack Order : 1
+Enemy Ship ID : 1
+Shot Number : 1
+Firing Interval : 3.00
+Remaining Health : 92.00
+----------------------
+Attack Order : 1
+Enemy Ship ID : 1
+Shot Number : 2
+Firing Interval : 3.00
+Remaining Health : 84.64
+----------------------
+Attack Order : 1
+Enemy Ship ID : 1
+Shot Number : 3
+Firing Interval : 3.00
+Remaining Health : 77.87
+----------------------
+Attack Order : 2
+Enemy Ship ID : 2
+Shot Number : 1
+Firing Interval : 5.00
+Remaining Health : 73.20
+----------------------
+Attack Order : 2
+Enemy Ship ID : 2
+Shot Number : 2
+Firing Interval : 5.00
+Remaining Health : 68.80
+----------------------
+Attack Order : 2
+Enemy Ship ID : 2
+Shot Number : 3
+Firing Interval : 5.00
+Remaining Health : 64.68
+----------------------
+Attack Order : 3
+Enemy Ship ID : 3
+Shot Number : 1
+Firing Interval : 4.00
+Remaining Health : 60.15
+----------------------
+Attack Order : 3
+Enemy Ship ID : 3
+Shot Number : 2
+Firing Interval : 4.00
+Remaining Health : 55.94
+----------------------
+Attack Order : 3
+Enemy Ship ID : 3
+Shot Number : 3
+Firing Interval : 4.00
+Remaining Health : 52.02
+----------------------
+Attack Order : 4
+Enemy Ship ID : 4
+Shot Number : 1
+Firing Interval : 6.00
+Remaining Health : 49.42
+----------------------
+Attack Order : 4
+Enemy Ship ID : 4
+Shot Number : 2
+Firing Interval : 6.00
+Remaining Health : 46.95
+----------------------
+Attack Order : 4
+Enemy Ship ID : 4
+Shot Number : 3
+Firing Interval : 6.00
+Remaining Health : 44.60
+----------------------
+Attack Order : 5
+Enemy Ship ID : 5
+Shot Number : 1
+Firing Interval : 2.00
+Remaining Health : 42.82
+----------------------
+Attack Order : 5
+Enemy Ship ID : 5
+Shot Number : 2
+Firing Interval : 2.00
+Remaining Health : 41.11
+----------------------
+Attack Order : 5
+Enemy Ship ID : 5
+Shot Number : 3
+Firing Interval : 2.00
+Remaining Health : 39.46
+----------------------
+Attack Order : 1
+Enemy Ship ID : 1
+Shot Number : 1
+Firing Interval : 3.00
+Remaining Health : 92.00
+----------------------
+Attack Order : 1
+Enemy Ship ID : 1
+Shot Number : 2
+Firing Interval : 3.00
+Remaining Health : 84.64
+----------------------
+Attack Order : 1
+Enemy Ship ID : 1
+Shot Number : 3
+Firing Interval : 3.00
+Remaining Health : 77.87
+----------------------
+Attack Order : 2
+Enemy Ship ID : 2
+Shot Number : 1
+Firing Interval : 5.00
+Remaining Health : 73.20
+----------------------
+Attack Order : 2
+Enemy Ship ID : 2
+Shot Number : 2
+Firing Interval : 5.00
+Remaining Health : 68.80
+----------------------
+Attack Order : 2
+Enemy Ship ID : 2
+Shot Number : 3
+Firing Interval : 5.00
+Remaining Health : 64.68
+----------------------
+Attack Order : 3
+Enemy Ship ID : 3
+Shot Number : 1
+Firing Interval : 4.00
+Remaining Health : 60.15
+----------------------
+Attack Order : 3
+Enemy Ship ID : 3
+Shot Number : 2
+Firing Interval : 4.00
+Remaining Health : 55.94
+----------------------
+Attack Order : 3
+Enemy Ship ID : 3
+Shot Number : 3
+Firing Interval : 4.00
+Remaining Health : 52.02
+----------------------
+Attack Order : 4
+Enemy Ship ID : 4
+Shot Number : 1
+Firing Interval : 6.00
+Remaining Health : 49.42
+----------------------
+Attack Order : 4
+Enemy Ship ID : 4
+Shot Number : 2
+Firing Interval : 6.00
+Remaining Health : 46.95
+----------------------
+Attack Order : 4
+Enemy Ship ID : 4
+Shot Number : 3
+Firing Interval : 6.00
+Remaining Health : 44.60
+----------------------
+Attack Order : 5
+Enemy Ship ID : 5
+Shot Number : 1
+Firing Interval : 2.00
+Remaining Health : 42.82
+----------------------
+Attack Order : 5
+Enemy Ship ID : 5
+Shot Number : 2
+Firing Interval : 2.00
+Remaining Health : 41.11
+----------------------
+Attack Order : 5
+Enemy Ship ID : 5
+Shot Number : 3
+Firing Interval : 2.00
+Remaining Health : 39.46
+----------------------
+Attack Order : 1
+Enemy Ship ID : 1
+Shot Number : 1
+Firing Interval : 3.00
+Remaining Health : 92.00
+----------------------
+Attack Order : 1
+Enemy Ship ID : 1
+Shot Number : 2
+Firing Interval : 3.00
+Remaining Health : 84.64
+----------------------
+Attack Order : 1
+Enemy Ship ID : 1
+Shot Number : 3
+Firing Interval : 3.00
+Remaining Health : 77.87
+----------------------
+Attack Order : 1
+Enemy Ship ID : 1
+Shot Number : 1
+Firing Interval : 3.00
+Remaining Health : 92.00
+----------------------
+Attack Order : 1
+Enemy Ship ID : 1
+Shot Number : 2
+Firing Interval : 3.00
+Remaining Health : 84.64
+----------------------
+Attack Order : 1
+Enemy Ship ID : 1
+Shot Number : 3
+Firing Interval : 3.00
+Remaining Health : 77.87
+----------------------
+Attack Order : 2
+Enemy Ship ID : 2
+Shot Number : 1
+Firing Interval : 5.00
+Remaining Health : 73.20
+----------------------
+Attack Order : 2
+Enemy Ship ID : 2
+Shot Number : 2
+Firing Interval : 5.00
+Remaining Health : 68.80
+----------------------
+Attack Order : 2
+Enemy Ship ID : 2
+Shot Number : 3
+Firing Interval : 5.00
+Remaining Health : 64.68
+----------------------
+Attack Order : 3
+Enemy Ship ID : 3
+Shot Number : 1
+Firing Interval : 4.00
+Remaining Health : 60.15
+----------------------
+Attack Order : 3
+Enemy Ship ID : 3
+Shot Number : 2
+Firing Interval : 4.00
+Remaining Health : 55.94
+----------------------
+Attack Order : 3
+Enemy Ship ID : 3
+Shot Number : 3
+Firing Interval : 4.00
+Remaining Health : 52.02
+----------------------
+Attack Order : 4
+Enemy Ship ID : 4
+Shot Number : 1
+Firing Interval : 6.00
+Remaining Health : 49.42
+----------------------
+Attack Order : 4
+Enemy Ship ID : 4
+Shot Number : 2
+Firing Interval : 6.00
+Remaining Health : 46.95
+----------------------
+Attack Order : 4
+Enemy Ship ID : 4
+Shot Number : 3
+Firing Interval : 6.00
+Remaining Health : 44.60
+----------------------
+Attack Order : 5
+Enemy Ship ID : 5
+Shot Number : 1
+Firing Interval : 2.00
+Remaining Health : 42.82
+----------------------
+Attack Order : 5
+Enemy Ship ID : 5
+Shot Number : 2
+Firing Interval : 2.00
+Remaining Health : 41.11
+----------------------
+Attack Order : 5
+Enemy Ship ID : 5
+Shot Number : 3
+Firing Interval : 2.00
+Remaining Health : 39.46
+----------------------
+Attack Order : 1
+Enemy Ship ID : 1
+Shot Number : 1
+Firing Interval : 3.00
+Damage Applied : 8.00
+Remaining Health : 92.00
+----------------------
+Attack Order : 1
+Enemy Ship ID : 1
+Shot Number : 2
+Firing Interval : 3.00
+Damage Applied : 7.36
+Remaining Health : 84.64
+----------------------
+Attack Order : 1
+Enemy Ship ID : 1
+Shot Number : 3
+Firing Interval : 3.00
+Damage Applied : 6.77
+Remaining Health : 77.87
+----------------------
+Attack Order : 2
+Enemy Ship ID : 2
+Shot Number : 1
+Firing Interval : 5.00
+Damage Applied : 4.67
+Remaining Health : 73.20
+----------------------
+Attack Order : 2
+Enemy Ship ID : 2
+Shot Number : 2
+Firing Interval : 5.00
+Damage Applied : 4.39
+Remaining Health : 68.80
+----------------------
+Attack Order : 2
+Enemy Ship ID : 2
+Shot Number : 3
+Firing Interval : 5.00
+Damage Applied : 4.13
+Remaining Health : 64.68
+----------------------
+Attack Order : 3
+Enemy Ship ID : 3
+Shot Number : 1
+Firing Interval : 4.00
+Damage Applied : 4.53
+Remaining Health : 60.15
+----------------------
+Attack Order : 3
+Enemy Ship ID : 3
+Shot Number : 2
+Firing Interval : 4.00
+Damage Applied : 4.21
+Remaining Health : 55.94
+----------------------
+Attack Order : 3
+Enemy Ship ID : 3
+Shot Number : 3
+Firing Interval : 4.00
+Damage Applied : 3.92
+Remaining Health : 52.02
+----------------------
+Attack Order : 4
+Enemy Ship ID : 4
+Shot Number : 1
+Firing Interval : 6.00
+Damage Applied : 2.60
+Remaining Health : 49.42
+----------------------
+Attack Order : 4
+Enemy Ship ID : 4
+Shot Number : 2
+Firing Interval : 6.00
+Damage Applied : 2.47
+Remaining Health : 46.95
+----------------------
+Attack Order : 4
+Enemy Ship ID : 4
+Shot Number : 3
+Firing Interval : 6.00
+Damage Applied : 2.35
+Remaining Health : 44.60
+----------------------
+Attack Order : 5
+Enemy Ship ID : 5
+Shot Number : 1
+Firing Interval : 2.00
+Damage Applied : 1.78
+Remaining Health : 42.82
+----------------------
+Attack Order : 5
+Enemy Ship ID : 5
+Shot Number : 2
+Firing Interval : 2.00
+Damage Applied : 1.71
+Remaining Health : 41.11
+----------------------
+Attack Order : 5
+Enemy Ship ID : 5
+Shot Number : 3
+Firing Interval : 2.00
+Damage Applied : 1.64
+Remaining Health : 39.46
+----------------------
+Attack Order : 1
+Enemy Ship ID : 1
+Shot Number : 1
+Firing Interval : 3.00
+Damage Applied : 8.00
+Remaining Health : 92.00
+----------------------
+Attack Order : 1
+Enemy Ship ID : 1
+Shot Number : 2
+Firing Interval : 3.00
+Damage Applied : 7.36
+Remaining Health : 84.64
+----------------------
+Attack Order : 1
+Enemy Ship ID : 1
+Shot Number : 3
+Firing Interval : 3.00
+Damage Applied : 6.77
+Remaining Health : 77.87
+----------------------
+Attack Order : 2
+Enemy Ship ID : 2
+Shot Number : 1
+Firing Interval : 5.00
+Damage Applied : 4.67
+Remaining Health : 73.20
+----------------------
+Attack Order : 2
+Enemy Ship ID : 2
+Shot Number : 2
+Firing Interval : 5.00
+Damage Applied : 4.39
+Remaining Health : 68.80
+----------------------
+Attack Order : 2
+Enemy Ship ID : 2
+Shot Number : 3
+Firing Interval : 5.00
+Damage Applied : 4.13
+Remaining Health : 64.68
+----------------------
+Attack Order : 3
+Enemy Ship ID : 3
+Shot Number : 1
+Firing Interval : 4.00
+Damage Applied : 4.53
+Remaining Health : 60.15
+----------------------
+Attack Order : 3
+Enemy Ship ID : 3
+Shot Number : 2
+Firing Interval : 4.00
+Damage Applied : 4.21
+Remaining Health : 55.94
+----------------------
+Attack Order : 3
+Enemy Ship ID : 3
+Shot Number : 3
+Firing Interval : 4.00
+Damage Applied : 3.92
+Remaining Health : 52.02
+----------------------
+Attack Order : 4
+Enemy Ship ID : 4
+Shot Number : 1
+Firing Interval : 6.00
+Damage Applied : 2.60
+Remaining Health : 49.42
+----------------------
+Attack Order : 4
+Enemy Ship ID : 4
+Shot Number : 2
+Firing Interval : 6.00
+Damage Applied : 2.47
+Remaining Health : 46.95
+----------------------
+Attack Order : 4
+Enemy Ship ID : 4
+Shot Number : 3
+Firing Interval : 6.00
+Damage Applied : 2.35
+Remaining Health : 44.60
+----------------------
+Attack Order : 5
+Enemy Ship ID : 5
+Shot Number : 1
+Firing Interval : 2.00
+Damage Applied : 1.78
+Remaining Health : 42.82
+----------------------
+Attack Order : 5
+Enemy Ship ID : 5
+Shot Number : 2
+Firing Interval : 2.00
+Damage Applied : 1.71
+Remaining Health : 41.11
+----------------------
+Attack Order : 5
+Enemy Ship ID : 5
+Shot Number : 3
+Firing Interval : 2.00
+Damage Applied : 1.64
+Remaining Health : 39.46
+----------------------
+Attack Order : 1
+Enemy Ship ID : 1
+Shot Number : 1
+Firing Interval : 3.00
+Damage Applied : 8.00
+Remaining Health : 92.00
+----------------------
+Attack Order : 1
+Enemy Ship ID : 1
+Shot Number : 2
+Firing Interval : 3.00
+Damage Applied : 7.36
+Remaining Health : 84.64
+----------------------
+Attack Order : 1
+Enemy Ship ID : 1
+Shot Number : 3
+Firing Interval : 3.00
+Damage Applied : 6.77
+Remaining Health : 77.87
+----------------------
+Attack Order : 2
+Enemy Ship ID : 2
+Shot Number : 1
+Firing Interval : 5.00
+Damage Applied : 4.67
+Remaining Health : 73.20
+----------------------
+Attack Order : 2
+Enemy Ship ID : 2
+Shot Number : 2
+Firing Interval : 5.00
+Damage Applied : 4.39
+Remaining Health : 68.80
+----------------------
+Attack Order : 2
+Enemy Ship ID : 2
+Shot Number : 3
+Firing Interval : 5.00
+Damage Applied : 4.13
+Remaining Health : 64.68
+----------------------
+Attack Order : 3
+Enemy Ship ID : 3
+Shot Number : 1
+Firing Interval : 4.00
+Damage Applied : 4.53
+Remaining Health : 60.15
+----------------------
+Attack Order : 3
+Enemy Ship ID : 3
+Shot Number : 2
+Firing Interval : 4.00
+Damage Applied : 4.21
+Remaining Health : 55.94
+----------------------
+Attack Order : 3
+Enemy Ship ID : 3
+Shot Number : 3
+Firing Interval : 4.00
+Damage Applied : 3.92
+Remaining Health : 52.02
+----------------------
+Attack Order : 4
+Enemy Ship ID : 4
+Shot Number : 1
+Firing Interval : 6.00
+Damage Applied : 2.60
+Remaining Health : 49.42
+----------------------
+Attack Order : 4
+Enemy Ship ID : 4
+Shot Number : 2
+Firing Interval : 6.00
+Damage Applied : 2.47
+Remaining Health : 46.95
+----------------------
+Attack Order : 4
+Enemy Ship ID : 4
+Shot Number : 3
+Firing Interval : 6.00
+Damage Applied : 2.35
+Remaining Health : 44.60
+----------------------
+Attack Order : 5
+Enemy Ship ID : 5
+Shot Number : 1
+Firing Interval : 2.00
+Damage Applied : 1.78
+Remaining Health : 42.82
+----------------------
+Attack Order : 5
+Enemy Ship ID : 5
+Shot Number : 2
+Firing Interval : 2.00
+Damage Applied : 1.71
+Remaining Health : 41.11
+----------------------
+Attack Order : 5
+Enemy Ship ID : 5
+Shot Number : 3
+Firing Interval : 2.00
+Damage Applied : 1.64
+Remaining Health : 39.46
+----------------------
