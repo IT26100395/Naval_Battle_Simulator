@@ -1,0 +1,28 @@
+PART 1-A ESCORT SHIPS HIT BY BATTLESHIP
+======================================
+
+Index of E  : 1
+Type        : ED
+Distance    : 52.60 m
+Time to hit : 0.05 seconds
+
+Index of E  : 2
+Type        : EB
+Distance    : 27.08 m
+Time to hit : 0.03 seconds
+
+Index of E  : 3
+Type        : EB
+Distance    : 37.42 m
+Time to hit : 0.04 seconds
+
+Index of E  : 4
+Type        : EB
+Distance    : 26.00 m
+Time to hit : 0.03 seconds
+
+Index of E  : 5
+Type        : EB
+Distance    : 50.10 m
+Time to hit : 0.05 seconds
+

@@ -1,0 +1,25 @@
+=== PART 1-B INITIAL CONDITIONS ===
+
+Canvas Size D: 100.00 | Seed: 123 | Total Path Points (k): 10
+Battleship Type: U | Max Velocity: 100.00 | Initial Position: (50.00, 50.00)
+
+Battleship Path Points:
+------------------------
+Point 1: (6.01, 78.83)
+Point 2: (20.31, 34.86)
+Point 3: (36.16, 13.46)
+Point 4: (37.60, 25.93)
+Point 5: (4.43, 87.96)
+Point 6: (63.04, 37.71)
+Point 7: (31.97, 82.79)
+Point 8: (42.51, 48.66)
+Point 9: (79.07, 95.53)
+Point 10: (71.38, 35.20)
+
+Escort Ships Initial Configuration:
+-------------------------------------
+E1 [EE - Japanese Kaibokan] Pos: (84.19, 36.24) | MaxV: 58.14 | MinV: 19.09 | Angles: [17.73, 87.73]
+E2 [EA - 1936A-class Destroyer] Pos: (21.87, 96.87) | MaxV: 120.00 | MinV: 30.15 | Angles: [13.25, 33.25]
+E3 [ED - F-class Escort Ships] Pos: (85.27, 79.18) | MaxV: 63.05 | MinV: 20.12 | Angles: [21.09, 71.09]
+E4 [EB - Gabbiano-class Corvette] Pos: (57.72, 41.28) | MaxV: 73.27 | MinV: 19.74 | Angles: [56.26, 86.26]
+E5 [EC - Matsu-class Destroyer] Pos: (77.65, 87.10) | MaxV: 65.53 | MinV: 35.89 | Angles: [21.29, 46.29]

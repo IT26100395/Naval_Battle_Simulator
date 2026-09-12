@@ -1,0 +1,12 @@
+PART 1-A FINAL CONDITIONS
+=========================
+
+Battleship Status: DESTROYED
+
+Escort Ships Status
+-------------------
+E1 (EA): ALIVE
+E2 (EE): ALIVE
+E3 (ED): ALIVE
+E4 (EB): ALIVE
+E5 (EA): ALIVE

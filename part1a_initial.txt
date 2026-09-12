@@ -1,0 +1,60 @@
+PART 1-A INITIAL CONDITIONS
+===========================
+
+Battlefield Canvas Size: 100.00 x 100.00
+
+BATTLESHIP
+Type Notation : U
+Name          : USS Iowa (BB-61)
+Gun Name      : 50-caliber Mark 7 gun
+Position      : (50.00, 50.00)
+Max Velocity  : 100.00 m/s
+
+ESCORT SHIPS (5 total)
+========================
+
+Escort Index : 1
+Type Notation: EA
+Type Name    : 1936A-class Destroyer
+Gun Name     : SK C/34 naval gun
+Position     : (27.47, 4.65)
+Velocity     : Min = 33.36 m/s, Max = 120.00 m/s
+Angle Range  : Min = 11.19 deg, Max = 31.19 deg
+Impact Power : 0.08
+
+Escort Index : 2
+Type Notation: EE
+Type Name    : Japanese Kaibokan
+Gun Name     : (4.7 inch) naval guns
+Position     : (7.96, 28.06)
+Velocity     : Min = 48.88 m/s, Max = 74.93 m/s
+Angle Range  : Min = 1.30 deg, Max = 71.30 deg
+Impact Power : 0.04
+
+Escort Index : 3
+Type Notation: ED
+Type Name    : F-class Escort Ships
+Gun Name     : SK C/32 naval gun
+Position     : (27.47, 97.14)
+Velocity     : Min = 26.17 m/s, Max = 71.66 m/s
+Angle Range  : Min = 15.17 deg, Max = 65.17 deg
+Impact Power : 0.05
+
+Escort Index : 4
+Type Notation: EB
+Type Name    : Gabbiano-class Corvette
+Gun Name     : L/47 dual-purpose gun
+Position     : (27.18, 41.60)
+Velocity     : Min = 30.71 m/s, Max = 67.11 m/s
+Angle Range  : Min = 27.62 deg, Max = 57.62 deg
+Impact Power : 0.06
+
+Escort Index : 5
+Type Notation: EA
+Type Name    : 1936A-class Destroyer
+Gun Name     : SK C/34 naval gun
+Position     : (28.54, 7.64)
+Velocity     : Min = 70.54 m/s, Max = 120.00 m/s
+Angle Range  : Min = 28.03 deg, Max = 48.03 deg
+Impact Power : 0.08
+

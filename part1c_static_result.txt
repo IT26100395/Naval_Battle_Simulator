@@ -1,0 +1,16 @@
+PART 1-C SIMULATION 0 - ITERATION STEP 1
+=============================================
+
+Battleship Position          : (50.00, 50.00)
+Battleship Status            : ALIVE
+Cumulative Damage on B       : 0.00% (Factor: 0.0000)
+
+Escorts Destroyed in this step by B : 0
+
+Surviving Escorts Status:
+-------------------------
+E1 (ED) at (90.30, 62.80) - Alive: NO | Attacked: NO
+E2 (EB) at (13.05, 21.27) - Alive: NO | Attacked: NO
+E3 (ED) at (0.78, 92.01) - Alive: NO | Attacked: NO
+E4 (EC) at (47.59, 11.55) - Alive: NO | Attacked: NO
+E5 (ED) at (42.33, 49.22) - Alive: NO | Attacked: NO

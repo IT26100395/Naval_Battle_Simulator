@@ -1,0 +1,9 @@
+=== PART 1-B SIMULATION SUMMARY REPORT ===
+
+--- SIMULATION 1 RESULTS ---
+Battleship Status: DESTROYED
+Surviving Escorts Count: 5 / 5
+
+--- SIMULATION 2 RESULTS (GUN JAMMED) ---
+Battleship Status: SURVIVED
+Surviving Escorts Count: 0 / 5
