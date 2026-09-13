@@ -1,0 +1,12 @@
+--- INITIAL BATTLEFIELD CONDITIONS ---
+Canvas Size D: 100.00
+Battleship: USS Iowa (BB-61) | Type: U | Gun: 50-caliber Mark 7 gun
+B Initial Pos: (50.00, 50.00) | VmaxB: 100.00 m/s | Firing Delay T_B: 5.00 s
+Strategy Chosen: Strategy 2
+
+Escort Ships Initial Data:
+E1 [EE] Pos: (4.43, 87.96) | Vmin: 27.61 | Vmax: 70.09 | MinAngle: 16.73 | MaxAngle: 86.73 | Impact: 0.04 | Fire Delay: 2.00
+E2 [EE] Pos: (42.51, 48.66) | Vmin: 53.24 | Vmax: 93.21 | MinAngle: 7.69 | MaxAngle: 77.69 | Impact: 0.04 | Fire Delay: 2.00
+E3 [EE] Pos: (84.19, 36.24) | Vmin: 19.09 | Vmax: 58.14 | MinAngle: 17.73 | MaxAngle: 87.73 | Impact: 0.04 | Fire Delay: 2.00
+E4 [EA] Pos: (21.87, 96.87) | Vmin: 30.15 | Vmax: 120.00 | MinAngle: 13.25 | MaxAngle: 33.25 | Impact: 0.08 | Fire Delay: 3.00
+E5 [ED] Pos: (85.27, 79.18) | Vmin: 20.12 | Vmax: 63.05 | MinAngle: 21.09 | MaxAngle: 71.09 | Impact: 0.05 | Fire Delay: 6.00

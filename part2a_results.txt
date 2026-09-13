@@ -1,0 +1,71 @@
+=== STAGE 1: PART 1-A REDO (STATIC ANALYSIS) ===
+ - E1 (EE) Dist:  59.31m | Escort Can Hit B: YES | B Can Hit Escort: YES
+ - E2 (EE) Dist:   7.61m | Escort Can Hit B: NO  | B Can Hit Escort: YES
+ - E3 (EE) Dist:  36.86m | Escort Can Hit B: YES | B Can Hit Escort: YES
+ - E4 (EA) Dist:  54.67m | Escort Can Hit B: YES | B Can Hit Escort: YES
+ - E5 (ED) Dist:  45.78m | Escort Can Hit B: YES | B Can Hit Escort: YES
+ - E6 (EB) Dist:  11.65m | Escort Can Hit B: YES | B Can Hit Escort: YES
+ - E7 (EC) Dist:  46.27m | Escort Can Hit B: NO  | B Can Hit Escort: YES
+ - E8 (EE) Dist:  68.11m | Escort Can Hit B: YES | B Can Hit Escort: YES
+ - E9 (EC) Dist:  22.32m | Escort Can Hit B: NO  | B Can Hit Escort: YES
+ - E10 (EC) Dist:  45.17m | Escort Can Hit B: YES | B Can Hit Escort: YES
+
+=== STAGE 2: PART 2-A FULL DYNAMIC SIMULATION ===
+
+
+--- Iteration 1 / 5 ---
+Battleship Position: (50.00, 50.00)
+[ATTACK] E1 (EE) HITS Battleship! Damage: 4% | B Health: 96.00%
+[ATTACK] E3 (EE) HITS Battleship! Damage: 4% | B Health: 92.00%
+[ATTACK] E4 (EA) HITS Battleship! Damage: 8% | B Health: 84.00%
+[ATTACK] E5 (ED) HITS Battleship! Damage: 5% | B Health: 79.00%
+[ATTACK] E6 (EB) HITS Battleship! Damage: 6% | B Health: 73.00%
+[ATTACK] E8 (EE) HITS Battleship! Damage: 4% | B Health: 69.00%
+[ATTACK] E10 (EC) HITS Battleship! Damage: 7% | B Health: 62.00%
+
+--> Battleship Attack Order (Strategy: Highest Impact First):
+[ E4(EA, IP:0.08) E9(EC, IP:0.07) E10(EC, IP:0.07) E7(EC, IP:0.07) E6(EB, IP:0.06) E5(ED, IP:0.05) E2(EE, IP:0.04) E3(EE, IP:0.04) E1(EE, IP:0.04) E8(EE, IP:0.04) ]
+Time   0.00s: B FIRED & DESTROYED E4 (EA) | Dist: 54.67m | Launch Angle: 1.54 deg | Flight Time: 0.55s
+Time   2.50s: B FIRED & DESTROYED E9 (EC) | Dist: 22.32m | Launch Angle: 0.63 deg | Flight Time: 0.22s
+Time   5.00s: B FIRED & DESTROYED E10 (EC) | Dist: 45.17m | Launch Angle: 1.27 deg | Flight Time: 0.45s
+Time   7.50s: B FIRED & DESTROYED E7 (EC) | Dist: 46.27m | Launch Angle: 1.30 deg | Flight Time: 0.46s
+Time  10.00s: B FIRED & DESTROYED E6 (EB) | Dist: 11.65m | Launch Angle: 0.33 deg | Flight Time: 0.12s
+Time  12.50s: B FIRED & DESTROYED E5 (ED) | Dist: 45.78m | Launch Angle: 1.29 deg | Flight Time: 0.46s
+Time  15.00s: B FIRED & DESTROYED E2 (EE) | Dist: 7.61m | Launch Angle: 0.21 deg | Flight Time: 0.08s
+Time  17.50s: B FIRED & DESTROYED E3 (EE) | Dist: 36.86m | Launch Angle: 1.04 deg | Flight Time: 0.37s
+Time  20.00s: B FIRED & DESTROYED E1 (EE) | Dist: 59.31m | Launch Angle: 1.67 deg | Flight Time: 0.59s
+Time  22.50s: B FIRED & DESTROYED E8 (EE) | Dist: 68.11m | Launch Angle: 1.92 deg | Flight Time: 0.68s
+
+--- Iteration 2 / 5 ---
+Battleship Position: (6.01, 78.83)
+
+--> Battleship Attack Order (Strategy: Highest Impact First):
+[ ]
+
+--- Iteration 3 / 5 ---
+Battleship Position: (20.31, 34.86)
+[GUN STATUS] JAMMED! Elevation restricted to theta >= 15.00 deg
+
+--> Battleship Attack Order (Strategy: Highest Impact First):
+[ ]
+
+--- Iteration 4 / 5 ---
+Battleship Position: (36.16, 13.46)
+[GUN STATUS] JAMMED! Elevation restricted to theta >= 15.00 deg
+
+--> Battleship Attack Order (Strategy: Highest Impact First):
+[ ]
+
+--- Iteration 5 / 5 ---
+Battleship Position: (37.60, 25.93)
+[GUN STATUS] JAMMED! Elevation restricted to theta >= 15.00 deg
+
+--> Battleship Attack Order (Strategy: Highest Impact First):
+[ ]
+
+====================================================
+                  FINAL SUMMARY                     
+====================================================
+Battleship Status : SURVIVED
+Cumulative Impact : 38.00%
+Battleship Health : 62.00%

@@ -1,0 +1,13 @@
+=== PART 2-C INITIAL CONDITIONS ===
+
+Battleship: USS Iowa (BB-61)
+IP0: 1.0000
+Gamma: 5.0000
+Current IP: 1.0000
+
+Escort Ship Initial Data:
+E1 [EA] IP0: 0.0800 | Gamma: 1.0000 | TE: 1.00 | Current IP: 0.0800
+E2 [EB] IP0: 0.0600 | Gamma: 2.0000 | TE: 2.00 | Current IP: 0.0600
+E3 [EC] IP0: 0.0700 | Gamma: 4.0000 | TE: 3.00 | Current IP: 0.0700
+E4 [ED] IP0: 0.0500 | Gamma: 2.0000 | TE: 2.00 | Current IP: 0.0500
+E5 [EE] IP0: 0.0400 | Gamma: 4.0000 | TE: 3.00 | Current IP: 0.0400

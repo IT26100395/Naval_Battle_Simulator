@@ -1,0 +1,59 @@
+=== PART 2-C SIMULATION RESULTS (IMPACT POWER DEGRADATION) ===
+Battleship: USS Iowa (BB-61) | Gamma_B: 5.0000 | Initial IP: 1.00
+
+
+--- Iteration 1 / 5 (Time: 0.00s) ---
+Time 0.00 : E5 (EE) Shot 1 -> B | IP 0.0007 | B Health 99.93%
+Time 0.00 : B Shot 1 -> E1 (EA) | IP 0.0067 | E Health 99.33%
+Time 5.00 : B Shot 2 -> E3 (EC) | IP 0.0000 | E Health 100.00%
+Time 10.00 : B Shot 3 -> E2 (EB) | IP 0.0000 | E Health 100.00%
+Time 15.00 : B Shot 4 -> E4 (ED) | IP 0.0000 | E Health 100.00%
+Time 20.00 : B Shot 5 -> E5 (EE) | IP 0.0000 | E Health 100.00%
+
+--- Iteration 2 / 5 (Time: 26.00s) ---
+Time 26.00 : E2 (EB) Shot 1 -> B | IP 0.0081 | B Health 99.11%
+Time 26.00 : E4 (ED) Shot 1 -> B | IP 0.0068 | B Health 98.44%
+Time 26.00 : E5 (EE) Shot 2 -> B | IP 0.0000 | B Health 98.44%
+Time 26.00 : B Shot 6 -> E1 (EA) | IP 0.0000 | E Health 99.33%
+Time 31.00 : B Shot 7 -> E3 (EC) | IP 0.0000 | E Health 100.00%
+Time 36.00 : B Shot 8 -> E2 (EB) | IP 0.0000 | E Health 100.00%
+Time 41.00 : B Shot 9 -> E4 (ED) | IP 0.0000 | E Health 100.00%
+Time 46.00 : B Shot 10 -> E5 (EE) | IP 0.0000 | E Health 100.00%
+
+--- Iteration 3 / 5 (Time: 52.00s) ---
+Time 52.00 : E2 (EB) Shot 2 -> B | IP 0.0011 | B Health 98.33%
+Time 52.00 : E5 (EE) Shot 3 -> B | IP 0.0000 | B Health 98.33%
+Time 52.00 : B Shot 11 -> E1 (EA) | IP 0.0000 | E Health 99.33%
+Time 57.00 : B Shot 12 -> E3 (EC) | IP 0.0000 | E Health 100.00%
+Time 62.00 : B Shot 13 -> E4 (ED) | IP 0.0000 | E Health 100.00%
+Time 67.00 : B Shot 14 -> E2 (EB) | IP 0.0000 | E Health 100.00%
+Time 72.00 : B Shot 15 -> E5 (EE) | IP 0.0000 | E Health 100.00%
+
+--- Iteration 4 / 5 (Time: 78.00s) ---
+Time 78.00 : E2 (EB) Shot 3 -> B | IP 0.0001 | B Health 98.31%
+Time 78.00 : E4 (ED) Shot 2 -> B | IP 0.0009 | B Health 98.22%
+Time 78.00 : E5 (EE) Shot 4 -> B | IP 0.0000 | B Health 98.22%
+Time 78.00 : B Shot 16 -> E1 (EA) | IP 0.0000 | E Health 99.33%
+Time 83.00 : B Shot 17 -> E3 (EC) | IP 0.0000 | E Health 100.00%
+Time 88.00 : B Shot 18 -> E4 (ED) | IP 0.0000 | E Health 100.00%
+Time 93.00 : B Shot 19 -> E2 (EB) | IP 0.0000 | E Health 100.00%
+Time 98.00 : B Shot 20 -> E5 (EE) | IP 0.0000 | E Health 100.00%
+
+--- Iteration 5 / 5 (Time: 104.00s) ---
+Time 104.00 : E2 (EB) Shot 4 -> B | IP 0.0000 | B Health 98.22%
+Time 104.00 : E4 (ED) Shot 3 -> B | IP 0.0001 | B Health 98.21%
+Time 104.00 : E5 (EE) Shot 5 -> B | IP 0.0000 | B Health 98.21%
+Time 104.00 : B Shot 21 -> E1 (EA) | IP 0.0000 | E Health 99.33%
+Time 109.00 : B Shot 22 -> E3 (EC) | IP 0.0000 | E Health 100.00%
+Time 114.00 : B Shot 23 -> E4 (ED) | IP 0.0000 | E Health 100.00%
+Time 119.00 : B Shot 24 -> E2 (EB) | IP 0.0000 | E Health 100.00%
+Time 124.00 : B Shot 25 -> E5 (EE) | IP 0.0000 | E Health 100.00%
+
+========== FINAL SUMMARY ==========
+Battleship Current IP: 0.0000
+Total Firings: 25
+E1 Final IP: 0.0800 | Health: 99.33%
+E2 Final IP: 0.0000 | Health: 100.00%
+E3 Final IP: 0.0700 | Health: 100.00%
+E4 Final IP: 0.0001 | Health: 100.00%
+E5 Final IP: 0.0000 | Health: 100.00%

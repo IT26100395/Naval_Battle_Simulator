@@ -1,0 +1,16 @@
+--- INITIAL BATTLEFIELD CONDITIONS (PART 1-A & PART 2-A) ---
+Canvas Size D: 100.00
+Battleship: USS Iowa (BB-61) | Type: U | Gun: 50-caliber Mark 7 gun
+B Initial Pos: (50.00, 50.00) | VmaxB: 100.00 m/s | Firing Delay T_B: 2.50 s
+
+Escort Ships Data:
+E1 [EE] Pos: (4.43, 87.96) | Vmin: 27.61 | Vmax: 70.09 | MinAngle: 16.73 | MaxAngle: 86.73 | Impact: 0.04
+E2 [EE] Pos: (42.51, 48.66) | Vmin: 53.24 | Vmax: 93.21 | MinAngle: 7.69 | MaxAngle: 77.69 | Impact: 0.04
+E3 [EE] Pos: (84.19, 36.24) | Vmin: 19.09 | Vmax: 58.14 | MinAngle: 17.73 | MaxAngle: 87.73 | Impact: 0.04
+E4 [EA] Pos: (21.87, 96.87) | Vmin: 30.15 | Vmax: 120.00 | MinAngle: 13.25 | MaxAngle: 33.25 | Impact: 0.08
+E5 [ED] Pos: (85.27, 79.18) | Vmin: 20.12 | Vmax: 63.05 | MinAngle: 21.09 | MaxAngle: 71.09 | Impact: 0.05
+E6 [EB] Pos: (57.72, 41.28) | Vmin: 19.74 | Vmax: 73.27 | MinAngle: 56.26 | MaxAngle: 86.26 | Impact: 0.06
+E7 [EC] Pos: (77.65, 87.10) | Vmin: 35.89 | Vmax: 65.53 | MinAngle: 21.29 | MaxAngle: 46.29 | Impact: 0.07
+E8 [EE] Pos: (97.69, 1.37) | Vmin: 29.38 | Vmax: 68.57 | MinAngle: 5.51 | MaxAngle: 75.51 | Impact: 0.04
+E9 [EC] Pos: (51.34, 27.72) | Vmin: 20.91 | Vmax: 74.28 | MinAngle: 30.42 | MaxAngle: 55.42 | Impact: 0.07
+E10 [EC] Pos: (65.96, 92.26) | Vmin: 17.31 | Vmax: 56.61 | MinAngle: 26.91 | MaxAngle: 51.91 | Impact: 0.07
